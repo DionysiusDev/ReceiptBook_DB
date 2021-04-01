@@ -1,0 +1,5 @@
+﻿ToolId,ToolName,Brand,AssetNumber,Description,Comments,StockQty,AvailableQty,ToolStatus,
+1,Soldering Iron,Generic,101011,30 Watt Soldering Iron,Clients pay for cost of soldering rods.,150,98,Active : 14/06/2019 7:34:11 PM,
+2,Cordless Drill,Generic,101012,50 Watt Soldering Iron,Client can purchase multiple batteries.,50,48,Active : 14/06/2019 7:34:16 PM,
+3,Circular Saw,Generic,101013,Diamond blade Circular Saw,Blades are expensive dont break em.,20,18,Active : 14/06/2019 7:34:20 PM,
+4,Jack Hammer,JJ'shammers,101014,brand new,activated today,2,2,Active : 14/06/2019 7:34:25 PM,
